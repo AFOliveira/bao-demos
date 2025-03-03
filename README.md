@@ -53,7 +53,7 @@ Download it from the [Arm Developer's][arm-toolchains]  website.
 
 c) For RISC-V, use the **riscv64-unknown-elf-** toolchain.
 
-Download it from [SiFive's Freedom Tools][riscv-toolchains] github reposiroty.
+Download it from [SiFive's Freedom Tools][riscv-toolchains] github repository.
 
 Install the toolchain. Then, set the **CROSS_COMPILE** environment variable 
 with the reference toolchain prefix path:
